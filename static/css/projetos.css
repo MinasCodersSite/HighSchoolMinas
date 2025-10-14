@@ -1,0 +1,63 @@
+body {
+    background: white;
+}
+
+h1{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Configurações Tabs */
+.tabs .tab a {
+    color: #000 !important;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.tabs .indicator {
+    background-color: black;
+}
+
+.tabs .tab a.active{
+    background-color: #c8fa84 !important;
+}
+
+
+.container {
+  width: 90%;
+}
+
+.row img {
+  height: 150px;
+  margin: auto;
+  display: block;
+}
+
+.projetos .card:hover {
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+.projetos {
+  background-color: #c8fa84;
+}
+
+.projetos a {
+  color: black;
+}
+
+.projetos .card-content {
+  align-content: center;
+}
+
+.projetos .card-content p {
+  color: #737373;
+}
+
+

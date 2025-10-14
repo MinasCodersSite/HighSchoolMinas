@@ -1,0 +1,20 @@
+/* Configurações de Footer */
+.page-footer{
+    background-color: #05a79a;
+}
+
+.page-footer p{
+    padding: 0px 0px;
+    margin-bottom: 20px;
+}
+
+.page-footer ul{
+    list-style: none;
+    display: flex;
+    padding: 0px;
+}
+
+.page-footer li{
+    margin-right: 10px;
+    font-size: 25px;
+}

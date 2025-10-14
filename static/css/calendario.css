@@ -1,0 +1,55 @@
+
+.calendario {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+.mes {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 250px;
+    background-color: #fff;
+}
+.mes h5 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 14%;
+    height: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+    font-size: 10px;
+}
+
+/* Eventos coloridos */
+.recrutamento { background-color: #f4a261; }
+.reuniao { border: 2px solid #2a9d8f; }
+.workshop { background-color: #e9c46a; }
+.ferias { background-color: #d8f3dc; }
+.prototipo { background-color: #90e0ef; }
+.ia { background-color: #f08080; }
+.estudo { background-color: #a0c4ff; }
+.pre-pitch { background-color: #f4a261; }
+.finalizar { background-color: #d38c8c; }
+.submissao { border: 2px solid #e63946; }
+
+.legenda {
+  font-size: 0.85rem;
+  text-align: left;
+}
+
+.legenda .cor {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 6px;
+  vertical-align: middle;
+  border-radius: 3px;
+}

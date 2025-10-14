@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>HighSchoolMinas</title>
+
+    <link rel="icon" type="image/png" href="static/imagens/logo_hsm.png" />
+
+    <!-- Import Google Icon Font -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+    <!-- Import Materialize CSS -->
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="static/css/materialize.min.css"
+      media="screen,projection"
+    />
+
+    <!-- Estilos locais -->
+    <link rel="stylesheet" href="static/css/index.css" />
+    <link rel="stylesheet" href="static/css/dashboardParticipante.css" />
+    <link rel="stylesheet" href="static/fontawesome/css/all.css" />
+    <link rel="stylesheet" href="static/css/navbar.css" />
+    <link rel="stylesheet" href="static/css/footer.css" />
+    <link rel="stylesheet" href="static/css/calendario.css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+   
+  </head>
+
+  <body>
+    <!-- NAVBAR -->
+    <div class="navbar-fixed">
+      <nav>
+        <div class="nav-wrapper">
+          <a href="index.html" class="brand-logo">
+            <img
+              src="static/imagens/logo_mc_escrito.png"
+              alt="Logo do programa MinasCoders com duas meninas, uma de cabelo cacheado e outra de cabelo liso"
+            />
+            <img
+              src="static/imagens/logo_hsm.png"
+              alt="Logo do programa HighSchoolMinas"
+            />
+          </a>
+        </div>
+      </nav>
+    </div>
+
+    <!-- BANNER -->
+    <div class="parallax-container">
+      <div class="parallax">
+        <img src="static/imagens/banner.png" alt="Banner do HighSchoolMinas" />
+      </div>
+    </div>
+
+    <!-- TEXTO INICIAL -->
+    <div class="section white">
+      <div class="container">
+        <p>
+          O <b>HighSchoolMinas</b> é um subgrupo do programa de extensão
+          universitária
+          <a href="https://minascoders.caf.ufv.br/" target="_blank">MinasCoders</a>,
+          que tem como foco o treinamento de meninas do ensino fundamental,
+          médio e/ou técnico para competições de tecnologia e empreendedorismo,
+          sendo o
+          <a href="https://www.technovationbrasil.org/" target="_blank"
+            >Technovation Girls</a
+          >
+          a principal competição.
+        </p>
+      </div>
+    </div>
+
+    <!-- CONTEÚDO -->
+    <div class="container">
+      <h2>Technovation Girls </h2>
+      <h6> Equipes <span style="background-color: #d0006f; color: white; font-weight: bold;"> SÊNIOR </span></h6>
+
+
+      <div class="row">
+        <div class="col s12">
+          <ul class="tabs">
+            <li class="tab col s3">
+              <a class="active" href="#conteudo">Conteúdo</a>
+            </li>
+            <li class="tab col s3">
+              <a href="#entregaveis">Entregáveis</a>
+            </li>
+            <li class="tab col s3">
+              <a href="#calendario">Calendário</a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- Aba Conteúdo -->
+        <div id="conteudo" class="col s12">
+          <ul class="collapsible">
+
+          </ul>
+        </div>
+
+        <!-- Aba Entregáveis -->
+        <div id="entregaveis" class="col s12">
+          <ul class="collapsible">
+
+          </ul>
+        </div>
+
+        <div id="calendario" class="col s12">
+          <div class="calendario">
+            <!--
+            <div class="mes">
+                <h5>Setembro</h5>
+                <table>
+                    <tr>
+                        <th>D</th><th>S</th><th>T</th><th>Q</th><th>Q</th><th>S</th><th>S</th>
+                    </tr>
+                    <tr>
+                        <td></td><td></td><td>01</td><td>02</td><td>03</td><td>04</td><td>05</td>
+                    </tr>
+                    <tr>
+                        <td>06</td><td>07</td><td>08</td><td>09</td><td>10</td><td>11</td><td>12</td>
+                    </tr>
+                    <tr>
+                        <td>13</td><td>14</td><td class="recrutamento">15</td><td class="recrutamento">16</td><td class="recrutamento">17</td><td class="recrutamento">18</td><td>19</td>
+                    </tr>
+                    <tr>
+                        <td class="recrutamento">20</td><td class="recrutamento">21</td><td class="recrutamento">22</td><td class="recrutamento">23</td><td class="recrutamento">24</td><td class="recrutamento">25</td><td class="recrutamento">26</td>
+                    </tr>
+                    <tr>
+                        <td class="recrutamento">27</td><td class="recrutamento">28</td><td class="recrutamento">29</td><td class="recrutamento">30</td><td></td><td></td><td></td>
+                    </tr>
+                </table>
+                <div class="legenda"><span class="cor recrutamento"></span> RECRUTAMENTO E DIVULGAÇÃO</div>
+            </div>
+
+            <div class="mes">
+                <h5>Outubro</h5>
+                <table>
+                    <tr>
+                        <th>D</th><th>S</th><th>T</th><th>Q</th><th>Q</th><th>S</th><th>S</th>
+                    </tr>
+                    <tr>
+                        <td></td><td></td><td>01</td><td>02</td><td>03</td><td>04</td><td>05</td>
+                    </tr>
+                    <tr>
+                        <td class="reuniao">06</td><td class="reuniao">07</td><td class="reuniao">08</td><td class="reuniao">09</td><td class="reuniao">10</td><td>11</td><td>12</td>
+                    </tr>
+                    <tr>
+                        <td class="workshop">13</td><td class="workshop">14</td><td class="workshop">15</td><td class="workshop">16</td><td class="workshop">17</td><td>18</td><td>19</td>
+                    </tr>
+                    <tr>
+                        <td class="workshop">20</td><td class="workshop">21</td><td class="workshop">22</td><td class="workshop">23</td><td class="workshop">24</td><td class="workshop">25</td><td>26</td>
+                    </tr>
+                    <tr>
+                        <td class="workshop">27</td><td class="workshop">28</td><td class="workshop">29</td><td class="workshop">30</td><td class="workshop">31</td><td></td><td></td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="mes">
+                <h5>Novembro</h5>
+                <table>
+                    <tr>
+                        <th>D</th><th>S</th><th>T</th><th>Q</th><th>Q</th><th>S</th><th>S</th>
+                    </tr>
+                    <tr>
+                        <td>30</td><td class="programacao">03</td><td class="programacao">04</td><td class="programacao">05</td><td class="programacao">06</td><td class="programacao">07</td><td>08</td>
+                    </tr>
+                    <tr>
+                        <td>09</td><td class="ia">10</td><td class="ia">11</td><td class="ia">12</td><td class="ia">13</td><td class="ia">14</td><td>15</td>
+                    </tr>
+                    <tr>
+                        <td>16</td><td class="estudo">17</td><td class="estudo">18</td><td class="estudo">19</td><td>20</td><td>21</td><td>22</td>
+                    </tr>
+                    <tr>
+                        <td>23</td><td class="workshop">24</td><td class="workshop">25</td><td class="workshop">26</td><td class="workshop">27</td><td class="workshop">28</td><td>29</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="mes">
+                <h5>Dezembro</h5>
+                <table>
+                    <tr>
+                        <th>D</th><th>S</th><th>T</th><th>Q</th><th>Q</th><th>S</th><th>S</th>
+                    </tr>
+                    <tr>
+                        <td></td><td class="prototipo">01</td><td class="prototipo">02</td><td class="prototipo">03</td><td class="prototipo">04</td><td class="prototipo">05</td><td>06</td>
+                    </tr>
+                    <tr>
+                        <td class="ferias">07</td><td class="ferias">08</td><td class="ferias">09</td><td class="ferias">10</td><td class="ferias">11</td><td class="ferias">12</td><td class="ferias">13</td>
+                    </tr>
+                    <tr>
+                        <td class="ferias">14</td><td class="ferias">15</td><td class="ferias">16</td><td class="ferias">17</td><td class="ferias">18</td><td class="ferias">19</td><td class="ferias">20</td>
+                    </tr>
+                    <tr>
+                        <td class="ferias">21</td><td class="ferias">22</td><td class="ferias">23</td><td class="ferias">24</td><td class="ferias">25</td><td class="ferias">26</td><td class="ferias">27</td>
+                    </tr>
+                    <tr>
+                        <td class="ferias">28</td><td class="ferias">29</td><td class="ferias">30</td><td class="ferias">31</td><td></td><td></td><td></td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="mes">
+                <h5>Dezembro</h5>
+                <table>
+                    <tr>
+                        <th>D</th><th>S</th><th>T</th><th>Q</th><th>Q</th><th>S</th><th>S</th>
+                    </tr>
+                    <tr>
+                        <td></td><td class="prototipo">01</td><td class="prototipo">02</td><td class="prototipo">03</td><td class="prototipo">04</td><td class="prototipo">05</td><td>06</td>
+                    </tr>
+                    <tr>
+                        <td class="ferias">07</td><td class="ferias">08</td><td class="ferias">09</td><td class="ferias">10</td><td class="ferias">11</td><td class="ferias">12</td><td class="ferias">13</td>
+                    </tr>
+                    <tr>
+                        <td class="ferias">14</td><td class="ferias">15</td><td class="ferias">16</td><td class="ferias">17</td><td class="ferias">18</td><td class="ferias">19</td><td class="ferias">20</td>
+                    </tr>
+                    <tr>
+                        <td class="ferias">21</td><td class="ferias">22</td><td class="ferias">23</td><td class="ferias">24</td><td class="ferias">25</td><td class="ferias">26</td><td class="ferias">27</td>
+                    </tr>
+                    <tr>
+                        <td class="ferias">28</td><td class="ferias">29</td><td class="ferias">30</td><td class="ferias">31</td><td></td><td></td><td></td>
+                    </tr>
+                </table>
+            </div> -->
+
+        </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5><b>MinasCoders - HighSchoolMinas</b></h5>
+            <p>
+              Universidade Federal de Viçosa - Campus Florestal <br>
+              Florestal – MG. Rodovia LMG 818, km 06, s/n, Florestal - MG, 35690-000
+            </p>
+          </div>
+          <div class="col l4 offset-l2 s12 right">
+            <ul class="right">
+              <li><a class="grey-text text-lighten-3" href="https://www.instagram.com/minascoders/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+              <li><a class="grey-text text-lighten-3" href="https://www.linkedin.com/company/minascoders/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
+              <li><a class="grey-text text-lighten-3" href="mailto:minascoders.hsm@ufv.br" target="_blank"><i class="fa-solid fa-envelope"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">© 2025 MinasCoders - HighSchoolMinas</div>
+      </div>
+    </footer>
+
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+    <script src="static/js/materialize.js"></script>
+    <script src="static/js/init.js"></script>
+    <script src="static/js/navbar.js"></script>
+    <script src="static/js/footer.js"></script>
+    <script src="static/js/conteudo.js"></script>
+    <script src="static/js/entregaveis.js"></script>
+  </body>
+</html>
+

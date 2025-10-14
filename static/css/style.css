@@ -1,0 +1,191 @@
+/* * é o seletor universal, que aplica as regras a todos os elementos HTML. */
+
+* {
+  margin: 0; /* remove qualquer margem padrão dos elementos. */
+  padding: 0; /* remove qualquer preenchimento interno (padding) padrão. */  
+}
+
+
+h2 {
+  color: white;
+}
+
+body {
+  font-family: Montserrat;
+  color: #041e42;
+  background-color: white;
+}
+
+img {
+  width: 100%; /* Define que todas as imagens (<img>) terão largura total do seu elemento pai */
+}
+
+.overflow-hidden {
+  overflow: hidden; /* conteúdo extra que "vaza" para fora das bordas do elemento não será visível nem gerará barras de rolagem */
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-popup {
+  position: fixed; /* fixa o elemento na tela, independente do scroll */
+  top: 0;          /* posiciona no topo da janela */
+  left: 0;         /* posiciona na esquerda da janela */
+  width: 100%;     /* ocupa toda a largura da janela */
+  height: 100%;    /* ocupa toda a altura da janela */
+  display: flex;   /* ativa flexbox para organizar conteúdo interno */
+  justify-content: center;
+  align-items: center;
+  /*background-color: #041e42;*/
+}
+
+.popup-login {
+  /* display: none !important; */
+  width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 10px;
+  padding: 35px;
+  border-radius: 32px;
+  background-color: #fff;
+}
+
+/*
+ BOTÕES
+*/
+.botao {
+  padding: 10px 20px;
+  background-color: #08a89b;  /* azul padrão, azul  marinho = #0b1e3f */
+  color: white;
+  border: none;
+  border-radius: 8px;         /* bordas arredondadas */
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold; 
+  text-transform: uppercase;
+}
+
+.input {
+  width: 100%;
+  font-size: 16px;
+  padding: 15px;
+  border: 2px solid #cdcdcd;
+  border-radius: 20px;
+  box-sizing: border-box;
+  font-family: Montserrat;
+}
+
+
+
+.box {
+    border: 2px dashed #041e42;
+    margin: 20px;
+    padding: 15px;
+    background-color: #08a89b;
+    border-radius: 10px;
+}
+
+.atividade-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.status-concluida {
+    background-color: #2e7d32;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.item-label {
+    flex: 1;
+}
+
+.item a, .item input {
+    flex: 2;
+    margin: 0 10px;
+}
+
+.botao-status {
+    background-color: #2e7d32;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+.navbar {
+    background-color: #08a89b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.navbar-left,
+.navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+}
+
+.icon {
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 5px;
+}
+
+.username {
+    font-weight: bold;
+}
+
+.emoji {
+    font-size: 20px;
+}
+
+.emoji-botao {
+    font-size: 1.5rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    margin-left: 0.5rem;
+}
+
+.emoji-botao:hover {
+    transform: scale(1.2);
+}
+
+.emoji-botao:focus {
+    outline: none;
+}
+
+.sede-text {
+    font-size: 16px;
+    font-weight: bold;
+}
