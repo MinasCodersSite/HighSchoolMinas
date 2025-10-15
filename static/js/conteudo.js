@@ -18,8 +18,6 @@ document.addEventListener("DOMContentLoaded", async () => {
             <p>Atividade para a Equipe: <a href="${item.atividade_link}" target="_blank">${item.atividade_label}</a></p>
             
             <p>${item.descricao}</p>
-
-            <p>Vídeo Auxiliar: <a href="${item.video}" target="_blank">preparando ...</a></p>
             
           </span>
         </div>

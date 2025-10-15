@@ -13,7 +13,7 @@
     "conteudo_link":"https://docs.google.com/document/d/1eZwY3bGucdVYo3hGNW3kLRVb3PbSFFk9rIzA4JME-zg/edit?usp=sharing",
     "atividade_label":"Declaração do Problema",
     "atividade_link":"https://docs.google.com/document/d/1_1xisj_Behe1BX0c4mhpwqYsg4Bcg3iXnligBwdnB-0/edit?usp=sharing",
-    "descricao":""
+    "descricao":"Todos os entregáveis são guiados pelo problema que a equipe quer resolver e é justamente na etapa de Ideação que a equipe vai identificar esse problema. É importante ressaltar que apesar de ser a atividade inicial é sempre importante e revisando essa etapa para ir aprimorando a ideia. Sempre revise a Declaração do Problema e faça os ajustes necessários pois esse texto será entregue para os jurados avaliarem!"
  },
  {
     "titulo":"Ética",
@@ -32,12 +32,12 @@
     "descricao":""
  },
  {
-    "titulo":"Planejando Aplicativo",
+    "titulo":"Planejando Aplicativo [MVP + Protótipo]",
     "conteudo_label":"Produto Mínimo Viável + Protótipo",
     "conteudo_link":"https://docs.google.com/document/d/1OGGZLgjcHKTbzfGQc7Pv0FIrKumRsVGUFJO0jyIdRNw/edit?usp=sharing",
     "atividade_label":"Protótipo",
     "atividade_link":"https://docs.google.com/document/d/1D7mN3c0wkHyZnbgShwScDvUdCeNiC35heXGKtGfkZ74/edit?usp=sharing",
-    "descricao":""
+    "descricao":"Apesar de não ser diretamente um entregável, é o Produto Mínimo Viável e o Protótipo que vão guiar todo o desenvolvimento do aplicativo de forma que a equipe tenha foco nas partes principais e consiga enviar o código fonte e principalmente gravar o Vídeo Técnico!"
  },
  {
     "titulo":"Programação de Aplicativos",
@@ -56,7 +56,7 @@
     "descricao":""
  },
  {
-    "titulo":"Empreendedorismo",
+    "titulo":"Plano de Negócio",
     "conteudo_label":"preparando ...",
     "conteudo_link":"",
     "atividade_label":"Business Canva",
@@ -67,14 +67,6 @@
     "titulo":"Pitch",
     "conteudo_label":"Pitch",
     "conteudo_link":"https://docs.google.com/document/d/1NRv3yBDCeaPENZEnQFvRcXhYVDLoudN7qsG0OYrkBWM/edit?usp=sharing",
-    "atividade_label":"preparando ...",
-    "atividade_link":"",
-    "descricao":""
- },
- {
-    "titulo":"Dividir Tarefas",
-    "conteudo_label":"preparando ...",
-    "conteudo_link":"",
     "atividade_label":"preparando ...",
     "atividade_link":"",
     "descricao":""
@@ -102,22 +94,5 @@
     "atividade_label":"preparando ...",
     "atividade_link":"",
     "descricao":""
- },
-  {
-    "titulo":"Submissão",
-    "conteudo_label":"preparando ...",
-    "conteudo_link":"",
-    "atividade_label":"preparando ...",
-    "atividade_link":"",
-    "descricao":""
- },
-   {
-    "titulo":"Pitch Regional",
-    "conteudo_label":"preparando ...",
-    "conteudo_link":"",
-    "atividade_label":"preparando ...",
-    "atividade_link":"",
-    "descricao":""
  }
-
 ]

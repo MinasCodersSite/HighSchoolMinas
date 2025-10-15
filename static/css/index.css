@@ -27,15 +27,21 @@ p {
 }
 
 /* Quando for mobile (largura até 600px, por exemplo) */
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   .parallax-container {
-    height: 50px; /* reduz altura */
+    height: 50px; 
   }
 
   .parallax-container .parallax img {
-    object-fit: cover; /* garante que não distorça */
+    object-fit: cover; 
+  }
+} */
+@media (max-width: 768px) {
+  .parallax-container {
+    display: none;
   }
 }
+
 
 /* Configurações de Informações do Projeto */
 .metricas {
