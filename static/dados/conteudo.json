@@ -72,12 +72,21 @@
     "descricao":""
  },
  {
-    "titulo":"Plano de Negócio",
+    "titulo":"Plano de Negócio <span style='background-color: #d0006f; color: white; font-weight: bold;'>Sênior</span>",
     "conteudo_label":"preparando ...",
     "conteudo_link":"",
     "questionario_link": "None",
     "atividade_label":"Business Canva",
     "atividade_link":"https://docs.google.com/document/d/18JFmF5uDe8DnEp6b518NT9RJrgmf_z2ClQMdPzFgPS4/edit?usp=sharing",
+    "descricao":""
+ },
+  {
+    "titulo":"Plano de Adoção do Usuário <span style='background-color: #ffb81c; color: white; font-weight: bold;'>Júnior</span>",
+    "conteudo_label":"preparando ...",
+    "conteudo_link":"",
+    "questionario_link": "None",
+    "atividade_label":"Plano de Adoção do Usuário",
+    "atividade_link":"https://docs.google.com/document/d/10ZCXXt8KbyrnLc-YcxlnCIKeZO3E-smFVS9K2GBReC0/edit?usp=sharing",
     "descricao":""
  },
  {
