@@ -33,8 +33,6 @@ th, td {
 /* Escolher sede */
 .sede-box {
     display: flex;
-    border: 1px solid #ccc;
-    border-radius: 8px;
     overflow: hidden;
     font-size: 14px;
     margin: 15px;
