@@ -1,10 +1,11 @@
 
 .calendario {
     display: flex;
-    flex-wrap: wrap;
+    justify-content: center; /* centraliza horizontalmente */
+    flex-direction: column !important;/* elementos em coluna */
     gap: 10px;
-    justify-content: center;
 }
+
 .mes {
     border: 1px solid #ccc;
     padding: 10px;
@@ -28,28 +29,36 @@ th, td {
     font-size: 10px;
 }
 
-/* Eventos coloridos */
-.recrutamento { background-color: #f4a261; }
-.reuniao { border: 2px solid #2a9d8f; }
-.workshop { background-color: #e9c46a; }
-.ferias { background-color: #d8f3dc; }
-.prototipo { background-color: #90e0ef; }
-.ia { background-color: #f08080; }
-.estudo { background-color: #a0c4ff; }
-.pre-pitch { background-color: #f4a261; }
-.finalizar { background-color: #d38c8c; }
-.submissao { border: 2px solid #e63946; }
 
-.legenda {
-  font-size: 0.85rem;
-  text-align: left;
+/* Escolher sede */
+.sede-box {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    font-size: 14px;
+    margin: 15px;
+    justify-content: center !important; /* centraliza horizontalmente */
 }
 
-.legenda .cor {
-  display: inline-block;
-  width: 15px;
-  height: 15px;
-  margin-right: 6px;
-  vertical-align: middle;
-  border-radius: 3px;
+.sede-box button {
+    border: none;
+    background-color: #f0f0f0;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    font-size: 14px;
+}
+
+.sede-box button:not(:last-child) {
+    border-right: 5px solid #ccc; /* separador entre botões */
+}
+
+.sede-box button.active {
+    background-color: #041e42;
+    color: white;
+}
+
+.sede-box button:hover:not(.active) {
+    background-color: #ddd;
 }
