@@ -20,6 +20,17 @@ const cores = {
   vermelho: "#ea4335"
 };
 
+const legendas = {
+  amarelo: "Ideação",
+  laranja: "Pitch",
+  verde: "Empreendedorismo",
+  azul: "Programação",
+  rosa: "Inteligência Artificial",
+  verdeAgua: "Evento",
+  verdeClaro: "Descanso",
+  vermelho: "Atenção"
+};
+
 async function renderCalendario(sede) {
   try {
 
@@ -80,6 +91,18 @@ async function renderCalendario(sede) {
         }
     }
 
+    // Cria HTML da legenda
+    const legendaHTML = `
+      <div class="legenda" style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; justify-content: center">
+        ${Object.entries(cores).map(([nome, cor]) => `
+          <div style="display: flex; align-items: center; gap: 6px;">
+            <div style="width: 16px; height: 16px; background-color: ${cor}; border: 1px solid #000; border-radius: 3px;"></div>
+            <span style="font-size: 14px;">${legendas[nome]}</span>
+          </div>
+        `).join('')}
+      </div>
+    `;
+
     // Cria HTML dos botões
     const botoesHTML = sedes.map(s => 
       `<button class="${s === sede ? 'active' : ''}">${s}</button>`
@@ -108,6 +131,8 @@ async function renderCalendario(sede) {
       <div class="calendario">
 
         <div class="sede-box">${botoesHTML} </div>
+
+        ${legendaHTML}
 
         ${tabelaHTML}
 
