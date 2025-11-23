@@ -40,9 +40,9 @@
     "conteudo_label": "Estudo de Caso",
     "conteudo_link":"https://docs.google.com/document/d/1zeKF4qMpWib8firszM5KxobTfwpHb4cqT-ULVJelLwc/edit?usp=sharing",
     "questionario_link": "-",
-    "atividade_label":"Participar (ou assitir a gravação) da apresentação de um Estudo de Caso elaborado pela Bea",
-    "atividade_link":"https://meet.google.com/emz-zppm-pet",
-    "descricao":"Convidamos vocês para participarem da apresentação de um Estudo de Caso elaborado pela Bea, que vai desde a escolha do problema, identificação dos ODSs, planejamento do aplicativo e desenvolvimento usando App Inventor. Será um momento muito enriquecedor para nosso treinamento para o Technovation Girls! </br> 🗓 Data: 19 de novembro (quarta-feira) </br> ⏰ Horário: 19h </br> 🔗 Link:  <a href='https://meet.google.com/emz-zppm-pet' target='_blank' style='color: #05a79a; text-decoration: none;'> https://meet.google.com/emz-zppm-pet </a> "
+    "atividade_label":"Gravação da apresentação de um Estudo de Caso elaborado pela Bea",
+    "atividade_link":"https://drive.google.com/file/d/1eVv61oTDMxSPIVBJ65ntqE0vtzeMJvS8/view?usp=sharing",
+    "descricao":"Convidamos vocês a assistirem a apresentação do Estudo de Caso elaborado pela Bea, que vai desde a escolha do problema, identificação dos ODSs, planejamento do aplicativo e desenvolvimento usando App Inventor. O encontro foi realizado dia 19/11/2025 pelo Google Meet e foi um momento muito enriquecedor para nosso treinamento para o Technovation Girls! </br> 🔗 <a href='https://drive.google.com/file/d/1bw5l1QZ4GfPzqBxZYfJxmJZWL3VPzR-T/view?usp=sharing' target='_blank' style='color: #05a79a; text-decoration: none;'> Material </a> "
  },
  {
     "titulo":"Planejando Aplicativo [MVP + Protótipo]",
@@ -51,14 +51,14 @@
     "questionario_link": "https://forms.gle/687WWfxVQp32xGAo7",
     "atividade_label":"Protótipo",
     "atividade_link":"https://docs.google.com/document/d/1D7mN3c0wkHyZnbgShwScDvUdCeNiC35heXGKtGfkZ74/edit?usp=sharing",
-    "descricao":"Apesar de não ser diretamente um entregável, é o Produto Mínimo Viável e o Protótipo que vão guiar todo o desenvolvimento do aplicativo de forma que a equipe tenha foco nas partes principais e consiga enviar o código fonte e principalmente gravar o Vídeo Técnico!"
+    "descricao":"Apesar de não ser diretamente um entregável, o Produto Mínimo Viável e o Protótipo vão guiar todo o desenvolvimento do aplicativo. Eles ajudam a equipe a ter foco nas partes principais. Essa está está relaciona ao código fonte que precisa ser enviado e com a gravação do Vídeo Técnico onde a equipe também pode falar das partes planejadas mas que ainda não tiverem sido implementadas!"
  },
  {
     "titulo":"Programação de Aplicativos",
     "conteudo_label":"preparando ...",
     "conteudo_link":"",
-    "questionario_link": "None",
-    "atividade_label":"preparando ...",
+    "questionario_link": "-",
+    "atividade_label":"Tentar colocar em prática os conceitos aprendidos!",
     "atividade_link":"",
     "descricao":""
  },
@@ -66,15 +66,15 @@
     "titulo":"Inteligência Artificial",
     "conteudo_label":"preparando ...",
     "conteudo_link":"",
-    "questionario_link": "None",
-    "atividade_label":"preparando ...",
+    "questionario_link": "-",
+    "atividade_label":"Tentar colocar em prática os conceitos aprendidos!",
     "atividade_link":"",
     "descricao":""
  },
  {
     "titulo":"Plano de Negócio <span style='background-color: #d0006f; color: white; font-weight: bold;'>Sênior</span>",
-    "conteudo_label":"preparando ...",
-    "conteudo_link":"",
+    "conteudo_label":"Plano de Negócio = Business Canva (em Português = Quadro de Modelo de Negócio)",
+    "conteudo_link":"https://docs.google.com/document/d/1tNpft3cB7VFYGgu7WKn28Uj2TxivuV9yuShaE_kBKUg/edit?usp=sharing",
     "questionario_link": "None",
     "atividade_label":"Business Canva",
     "atividade_link":"https://docs.google.com/document/d/18JFmF5uDe8DnEp6b518NT9RJrgmf_z2ClQMdPzFgPS4/edit?usp=sharing",
@@ -84,7 +84,7 @@
     "titulo":"Plano de Adoção do Usuário <span style='background-color: #ffb81c; color: white; font-weight: bold;'>Júnior</span>",
     "conteudo_label":"preparando ...",
     "conteudo_link":"",
-    "questionario_link": "None",
+    "questionario_link": "-",
     "atividade_label":"Plano de Adoção do Usuário",
     "atividade_link":"https://docs.google.com/document/d/10ZCXXt8KbyrnLc-YcxlnCIKeZO3E-smFVS9K2GBReC0/edit?usp=sharing",
     "descricao":""
@@ -120,7 +120,7 @@
     "titulo":"Jornada de Aprendizagem",
     "conteudo_label":"Jornada de Aprendizagem",
     "conteudo_link":"https://docs.google.com/document/d/1k8AGKRYpJHV1cfcZL5-dbjPIKKBbPdqGt_6VZeJz5oA/edit?usp=sharing",
-    "questionario_link": "None",
+    "questionario_link": "-",
     "atividade_label":"preparando ...",
     "atividade_link":"",
     "descricao":""
