@@ -53,6 +53,15 @@
     "atividade_link":"https://docs.google.com/document/d/1D7mN3c0wkHyZnbgShwScDvUdCeNiC35heXGKtGfkZ74/edit?usp=sharing",
     "descricao":"Apesar de não ser diretamente um entregável, o Produto Mínimo Viável e o Protótipo vão guiar todo o desenvolvimento do aplicativo. Eles ajudam a equipe a ter foco nas partes principais. Essa está está relaciona ao código fonte que precisa ser enviado e com a gravação do Vídeo Técnico onde a equipe também pode falar das partes planejadas mas que ainda não tiverem sido implementadas!"
  },
+  {
+    "titulo":"Workshop de Ideação",
+    "conteudo_label":"Canva e Tela",
+    "conteudo_link":"https://drive.google.com/file/d/1l_Ax56vK-5JGoVxfZGSKn9RehOOXqMix/view?usp=sharing",
+    "questionario_link": "-",
+    "atividade_label":"Conversar com a Pessoa Mentora e refletir pontos de melhoria na ideia do projeto!",
+    "atividade_link":"",
+    "descricao":"O workshop de ideação é um momento de encontro presencial para as equipes discutirem a ideia pro TG. É um evento realizado presencialmente, mas as equipes que não consgeuirem participar podem fazer a atividade depois. Para as equipes que participaram, é importante pensar os pontos que podem ser melhorados no projeto, a partir do que foi feito durante o workshop!"
+ },
  {
     "titulo":"Programação de Aplicativos",
     "conteudo_label":"preparando ...",
@@ -64,10 +73,10 @@
  },
  {
     "titulo":"Inteligência Artificial",
-    "conteudo_label":"preparando ...",
-    "conteudo_link":"",
+    "conteudo_label":"https://docs.google.com/document/d/1rRBPaB6XauvVA2VH8EU3rwKD-Hbo3VE8KzEhu_uGIrc/edit?usp=sharing",
+    "conteudo_link":"Um pouco sobre Inteligência Artificial",
     "questionario_link": "-",
-    "atividade_label":"Tentar colocar em prática os conceitos aprendidos!",
+    "atividade_label":"Refletir como Inteligência Artificial pode enriquecer o projeto!",
     "atividade_link":"",
     "descricao":""
  },
