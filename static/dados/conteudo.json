@@ -72,9 +72,9 @@
     "descricao":""
  },
  {
-    "titulo":"Inteligência Artificial",
-    "conteudo_label":"https://docs.google.com/document/d/1rRBPaB6XauvVA2VH8EU3rwKD-Hbo3VE8KzEhu_uGIrc/edit?usp=sharing",
-    "conteudo_link":"Um pouco sobre Inteligência Artificial",
+    "titulo":"Inteligência Artificial", 
+    "conteudo_label":"Um pouco sobre Inteligência Artificial",
+    "conteudo_link":"https://docs.google.com/document/d/1rRBPaB6XauvVA2VH8EU3rwKD-Hbo3VE8KzEhu_uGIrc/edit?usp=sharing",
     "questionario_link": "-",
     "atividade_label":"Refletir como Inteligência Artificial pode enriquecer o projeto!",
     "atividade_link":"",
