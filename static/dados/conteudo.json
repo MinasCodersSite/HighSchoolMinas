@@ -66,18 +66,18 @@
     "titulo":"Programação de Aplicativos",
     "conteudo_label":"preparando ...",
     "conteudo_link":"",
-    "questionario_link": "https://docs.google.com/document/d/1f4KyGpIXCwQaTuZG0-RtoqHyfh1BWrMJ6UI2p1gqwqg/edit?usp=sharing",
+    "questionario_link": "-",
     "atividade_label":"Tentar colocar em prática os conceitos aprendidos!",
-    "atividade_link":"",
+    "atividade_link":"https://docs.google.com/document/d/1f4KyGpIXCwQaTuZG0-RtoqHyfh1BWrMJ6UI2p1gqwqg/edit?usp=sharing",
     "descricao":""
  },
  {
     "titulo":"Inteligência Artificial", 
     "conteudo_label":"Um pouco sobre Inteligência Artificial",
     "conteudo_link":"https://docs.google.com/document/d/1rRBPaB6XauvVA2VH8EU3rwKD-Hbo3VE8KzEhu_uGIrc/edit?usp=sharing",
-    "questionario_link": "https://docs.google.com/document/d/1dhGwzXuPh8pNYOVFqADAMbur9xi5UGtK5bDk5wwKeN0/edit?usp=sharing",
+    "questionario_link": "-",
     "atividade_label":"Refletir como Inteligência Artificial pode enriquecer o projeto!",
-    "atividade_link":"",
+    "atividade_link":"https://docs.google.com/document/d/1dhGwzXuPh8pNYOVFqADAMbur9xi5UGtK5bDk5wwKeN0/edit?usp=sharing",
     "descricao":""
  },
  {
