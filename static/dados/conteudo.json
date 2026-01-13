@@ -1,51 +1,61 @@
 [
-  {
-    "titulo": "Entregáveis + ODS",
-    "conteudo_label": "Entregáveis + ODS",
+ {  "titulo": "ODS + Entregáveis <span style='background-color: #d0006f; color: white; font-weight: bold;'>Sênior</span>",
+    "conteudo_label": "Entregáveis [SÊNIOR] + ODS",
     "conteudo_link": "https://docs.google.com/document/d/1aP4zVKqdKuToLb3xWRX1gHuojCFvJBRT_bX-UXKcEDo/edit?usp=sharing",
     "questionario_link": "-",
     "atividade_label": "Explorando os ODS",
     "atividade_link": "https://docs.google.com/document/d/14TAAdV5mJthjdywPTEC37mNpX8_M6z01RsU3W4fhT8E/edit?usp=sharing",
-    "descricao": "Este conteúdo tem como objetivo apresentar os entregáveis da competição e falar da necessidade do projeto estar alinhado com os Objetivos de Desenvolvimento Sustentável da ONU. A competição define alguns materiais que as equipes devem submeter até o prazo final da competição:  23/04/2026 e é importante ressaltar que todo o treinamento é feito direcionando as meninas na produção dos entregáveis. Por esse motivo é muito importante ficar claro quais são os entregáveis para que as meninas façam o treinamento pensando no que deve ser feito para a competição."
+    "descricao": "Este conteúdo tem como objetivo apresentar os entregáveis da competição e falar da necessidade do projeto estar alinhado com os Objetivos de Desenvolvimento Sustentável da ONU. A competição define algumas atividades que as equipes devem submeter até o prazo final da competição: 20/04/2026 e é importante ressaltar que todo o treinamento é feito direcionando a equipe para o desenvolvimento dos entregáveis. Por esse motivo é muito importante ficar claro quais são os entregáveis para que as meninas façam o todo treinamento pensando neles! </br> 🔗 <a href='https://drive.google.com/file/d/1JdDFOwGsYbS9hLAuhA9xLjM78jPxjyLo/view'  target='_blank' style='color: #05a79a; text-decoration: none;'> Material Complementar: [Encontro Online] Objetivos de Desenvolvimento Sustentável -> Link da gravação do encontro na aba 'OUTROS' </a> "
  },
- {
-    "titulo":"Ideação",
+ {  "titulo": "ODS + Entregáveis <span style='background-color: #ffb81c; color: white; font-weight: bold;'>Júnior</span>",
+    "conteudo_label": "Entregáveis [JÚNIOR] + ODS",
+    "conteudo_link": "https://docs.google.com/document/d/1v91eN37u05cly0ilsJtLc4BXGT2udAt0l8XNmjICZ9c/edit?usp=sharing",
+    "questionario_link": "-",
+    "atividade_label": "Explorando os ODS",
+    "atividade_link": "https://docs.google.com/document/d/14TAAdV5mJthjdywPTEC37mNpX8_M6z01RsU3W4fhT8E/edit?usp=sharing",
+    "descricao": "Este conteúdo tem como objetivo apresentar os entregáveis da competição e falar da necessidade do projeto estar alinhado com os Objetivos de Desenvolvimento Sustentável da ONU. A competição define algumas atividades que as equipes devem submeter até o prazo final da competição: 20/04/2026 e é importante ressaltar que todo o treinamento é feito direcionando a equipe para o desenvolvimento dos entregáveis. Por esse motivo é muito importante ficar claro quais são os entregáveis para que as meninas façam o todo treinamento pensando neles! </br> 🔗 <a href='https://drive.google.com/file/d/1JdDFOwGsYbS9hLAuhA9xLjM78jPxjyLo/view'  target='_blank' style='color: #05a79a; text-decoration: none;'> Material Complementar: [Encontro Online] Objetivos de Desenvolvimento Sustentável -> Link da gravação do encontro na aba 'OUTROS' </a> "
+ },
+ {  "titulo":"Ideação",
     "conteudo_label": "Identificar um Problema",
     "conteudo_link":"https://docs.google.com/document/d/1eZwY3bGucdVYo3hGNW3kLRVb3PbSFFk9rIzA4JME-zg/edit?usp=sharing",
     "questionario_link": "https://forms.gle/zEiZBXw1L5NdKuUD8",
     "atividade_label":"Declaração do Problema",
     "atividade_link":"https://docs.google.com/document/d/1_1xisj_Behe1BX0c4mhpwqYsg4Bcg3iXnligBwdnB-0/edit?usp=sharing",
-    "descricao":"Todos os entregáveis são guiados pelo problema que a equipe quer resolver e é justamente na etapa de Ideação que a equipe vai identificar esse problema. É importante ressaltar que apesar de ser a atividade inicial é sempre importante e revisando essa etapa para ir aprimorando a ideia. Sempre revise a Declaração do Problema e faça os ajustes necessários pois esse texto será entregue para os jurados avaliarem!"
+    "descricao":"Todos os entregáveis são guiados pelo problema que a equipe quer resolver e é justamente na etapa de Ideação que a equipe vai identificar esse problema. É importante ressaltar que apesar de ser a atividade inicial é sempre importante revisar essa etapa ao longo de todo o treinamento para ir aprimorando a ideia. A recomendação é de sempre revisar a Declaração do Problema e ir fazendo os ajustes necessários pois esse texto será entregue para os jurados como parte do entregável 'Nome Descrição do Projeto'."
  },
- {
-    "titulo":"Ética",
+ {  "titulo":"Ética",
     "conteudo_label": "Ética e Impacto Positivo",
     "conteudo_link":"https://docs.google.com/document/d/1lgQBD2RPdmWJigTtIw_KeTtXlsZ6DEC7kXwtLPBHiQ4/edit?usp=sharing",
     "questionario_link": "https://forms.gle/dE82pyiYgxy7kUZQA",
     "atividade_label":"Jornada Ética",
     "atividade_link":"https://docs.google.com/document/d/1_o1ZW9jVzPQ74ncqiXesZEjVLW6-ubx-hlTEF-q2qXI/edit?usp=sharing",
-    "descricao":""
+    "descricao":"Ética é um tema super importante e a equipe deve explicar na descrição do projeto como considerou a ética ao desenvolver o aplicativo. Sendo assim,  esse conteúdo vai falar sobre Ética e sobre Viés Algoítimo. A Atividade relacionda é um fluxograma que vai guiar a equipe a refletir se estão seguindo uma 'Jornada Ética'. </br> 🔗 <a href='https://drive.google.com/file/d/1UtOyi0Cyd-66hWq4hMBjmXxtNw-YUPqA/view'  target='_blank' style='color: #05a79a; text-decoration: none;'> Material Complementar: [Encontro Online] Ética e Tecnologia -> Link da gravação do encontro na aba 'OUTROS' </a> "
  },
-  {
-    "titulo":"Validar Problema",
-    "conteudo_label": "Validação do Problema + Introdução sobre Modelo Canva",
+ {  "titulo":"Validar Problema <span style='background-color: #d0006f; color: white; font-weight: bold;'>Sênior</span>",
+    "conteudo_label": "Validação do Problema + Introdução sobre o Modelo Business Canva",
     "conteudo_link":"https://docs.google.com/document/d/1CsBS5jiWdU1M32mxpJCSaNhkj30U7wWTUSstAYcVzoE/edit?usp=sharing",
     "questionario_link": "https://forms.gle/i9RzNAD7vdbvrQUv6",
-    "atividade_label":"Validar do Problema",
+    "atividade_label":"Validar do Problema e Iniciar o Modelo Canva [Plano de Negócios]",
     "atividade_link":"https://docs.google.com/document/d/1GcgBPyZJpkjt69KuFyiyY876kbnb3xmriyAZ2CFEMmc/edit?usp=sharing",
-    "descricao":""
+    "descricao":"É importante validar se a ideia da equipe é realmente importante e para isso é preciso validar o problema pensando no público-alvo  e também nos concorrentes. Um entregável que ajuda a validar se a equipe está no caminhos certo é o 'Business Canva', que é o entregávle do Plano de Negócios, por isso esse quadro com perguntas estratégicas já será apresentado para a equipe para que elas já estejam ciente dele. Mas não se preocupem, mas adiante no treinamento falaremos mais sobre o Plano de Nrgócios e sobre cada campo do 'Business Canva', ou seja, por agora a ideia é apenas que a equipe comece uma versão inicial apenas de algumas partes para que posteriormente faça melhorias! 🔗 <a href='https://drive.google.com/file/d/1jrAPQ3Yjg_ByZgKr_xAGkt4Rhw1mHRSt/view'  target='_blank' style='color: #05a79a; text-decoration: none;'> Material Complementar: [Encontro Online] Projetos e Planejamento com Project Model Canvas -> Link da gravação do encontro na aba 'OUTROS' </a>"
  },
-  {
-    "titulo":"Estudo de Caso",
+ {  "titulo":"Usuários e Concorrentes <span style='background-color: #ffb81c; color: white; font-weight: bold;'>Júnior</span>",
+    "conteudo_label": "Validação do Problema",
+    "conteudo_link":"https://docs.google.com/document/d/1CsBS5jiWdU1M32mxpJCSaNhkj30U7wWTUSstAYcVzoE/edit?usp=sharing",
+    "questionario_link": "None",
+    "atividade_label":"Validar do Problema",
+    "atividade_link":"https://docs.google.com/document/d/1LzP-FtdwK1y7UL2tlEpBUOvZSzDcyD8JVDUauuMziwg/edit?usp=sharing",
+    "descricao":"É importante validar se a ideia da equipe é realmente importante e para isso é preciso validar o problema pensando nos usuários (público-alvo) e também nos concorrentes"
+ },
+ {  "titulo":"Estudo de Caso",
     "conteudo_label": "Estudo de Caso",
     "conteudo_link":"https://docs.google.com/document/d/1zeKF4qMpWib8firszM5KxobTfwpHb4cqT-ULVJelLwc/edit?usp=sharing",
-    "questionario_link": "-",
-    "atividade_label":"Gravação da apresentação de um Estudo de Caso elaborado pela Bea",
+    "questionario_link": "None",
+    "atividade_label":"Assistir a gravação da apresentação do Estudo de Caso elaborado pela Bea [LINK DA GRAVAÇÃO]",
     "atividade_link":"https://drive.google.com/file/d/1eVv61oTDMxSPIVBJ65ntqE0vtzeMJvS8/view?usp=sharing",
-    "descricao":"Convidamos vocês a assistirem a apresentação do Estudo de Caso elaborado pela Bea, que vai desde a escolha do problema, identificação dos ODSs, planejamento do aplicativo e desenvolvimento usando App Inventor. O encontro foi realizado dia 19/11/2025 pelo Google Meet e foi um momento muito enriquecedor para nosso treinamento para o Technovation Girls! </br> 🔗 <a href='https://drive.google.com/file/d/1bw5l1QZ4GfPzqBxZYfJxmJZWL3VPzR-T/view?usp=sharing' target='_blank' style='color: #05a79a; text-decoration: none;'> Material </a> "
+    "descricao":"Com o intuito de entender as tarefas da competição como um todo, elaboramos um estudo de caso, passando pelo processo de identificar um problemas, relacionar com os Objetivos de Desenvolvimento Sustentável da ONU, fazer o protótipo e desenvolver o aplicativo usando App Inventor. Foi realizado um encontro dia  19/11/2025 pelo Google Meet para apresentar o Estudo de Caso e por isso convidamos vocês a assistir a gravação do encontro! </br> 🔗 <a href='https://drive.google.com/file/d/1bw5l1QZ4GfPzqBxZYfJxmJZWL3VPzR-T/view?usp=sharing' target='_blank' style='color: #05a79a; text-decoration: none;'> Material apresentado no encontro.</a> "
  },
- {
-    "titulo":"Planejando Aplicativo [MVP + Protótipo]",
+ {  "titulo":"Planejando Aplicativo [MVP + Protótipo]",
     "conteudo_label":"Produto Mínimo Viável + Protótipo",
     "conteudo_link":"https://docs.google.com/document/d/1OGGZLgjcHKTbzfGQc7Pv0FIrKumRsVGUFJO0jyIdRNw/edit?usp=sharing",
     "questionario_link": "https://forms.gle/687WWfxVQp32xGAo7",
@@ -53,58 +63,53 @@
     "atividade_link":"https://docs.google.com/document/d/1D7mN3c0wkHyZnbgShwScDvUdCeNiC35heXGKtGfkZ74/edit?usp=sharing",
     "descricao":"Apesar de não ser diretamente um entregável, o Produto Mínimo Viável e o Protótipo vão guiar todo o desenvolvimento do aplicativo. Eles ajudam a equipe a ter foco nas partes principais. Essa está está relaciona ao código fonte que precisa ser enviado e com a gravação do Vídeo Técnico onde a equipe também pode falar das partes planejadas mas que ainda não tiverem sido implementadas!"
  },
-  {
-    "titulo":"Workshop de Ideação",
-    "conteudo_label":"Canva e Tela",
-    "conteudo_link":"https://drive.google.com/file/d/1l_Ax56vK-5JGoVxfZGSKn9RehOOXqMix/view?usp=sharing",
-    "questionario_link": "-",
-    "atividade_label":"Conversar com a Pessoa Mentora e refletir pontos de melhoria na ideia do projeto!",
-    "atividade_link":"",
-    "descricao":"O workshop de ideação é um momento de encontro presencial para as equipes discutirem a ideia pro TG. É um evento realizado presencialmente, mas as equipes que não consgeuirem participar podem fazer a atividade depois. Para as equipes que participaram, é importante pensar os pontos que podem ser melhorados no projeto, a partir do que foi feito durante o workshop!"
- },
- {
-    "titulo":"Programação de Aplicativos",
-    "conteudo_label":"preparando ...",
-    "conteudo_link":"",
+ {  "titulo":"Workshop de Ideação",
+    "conteudo_label":"Não tem material para leitura!",
+    "conteudo_link":"None",
     "questionario_link": "None",
-    "atividade_label":"Tentar colocar em prática os conceitos aprendidos!",
-    "atividade_link":"https://docs.google.com/document/d/1f4KyGpIXCwQaTuZG0-RtoqHyfh1BWrMJ6UI2p1gqwqg/edit?usp=sharing",
-    "descricao":""
+    "atividade_label":"Canva e Tela",
+    "atividade_link":"https://drive.google.com/file/d/1l_Ax56vK-5JGoVxfZGSKn9RehOOXqMix/view?usp=sharing",
+    "descricao":"O Workshop de Ideação é um evento/encontro que deve ser realizado preferencialmente de forma PRESENCIAL para as equipes discutirem a ideia que tiveram para o TG!"
  },
- {
-    "titulo":"Inteligência Artificial", 
+ {  "titulo":"Programação de Aplicativos",
+    "conteudo_label":"App Inventor + Conceitos de Programação",
+    "conteudo_link":"https://docs.google.com/document/d/1VCH7O52rMb4XpGl1q0CQZq58Pkk6KncHXOphm6CaE_o/edit?usp=sharing",
+    "questionario_link": "None",
+    "atividade_label":"Desenvolver o Aplicativo!",
+    "atividade_link":"https://docs.google.com/document/d/1f4KyGpIXCwQaTuZG0-RtoqHyfh1BWrMJ6UI2p1gqwqg/edit?usp=sharing",
+    "descricao":"Um dos requisitos da competição é resolver um problema COM UM APLICATIVO MÓVEL, sendo assim, um dos entregáveis é justamente o aplicativo desenvolvido pela equipe (lembrando que é suficiente ser um aplicativo mínimo viável). Este conteúdo explixa alguns conceitos de programação e como eles estão presentes no <a href='https://appinventor.mit.edu/' target='_blank' style='color: #05a79a; text-decoration: none;'> App Inventor </a>  (Plataforma Online para desenvolvimento de aplicativos usando Programação em Blocos) [A competição aceita aplicativos desenvolvidos em outras plataformas (como Thunkable, streamlite, outras linguagens de programação como Java, etc.), mas nesses caso a equipe tem que estar ciente que não temos materiais para auxiliar!]"
+ },
+ {  "titulo":"Inteligência Artificial", 
     "conteudo_label":"Um pouco sobre Inteligência Artificial",
     "conteudo_link":"https://docs.google.com/document/d/1rRBPaB6XauvVA2VH8EU3rwKD-Hbo3VE8KzEhu_uGIrc/edit?usp=sharing",
     "questionario_link": "None",
-    "atividade_label":"Refletir como Inteligência Artificial pode enriquecer o projeto!",
+    "atividade_label":"Refletir SE e como Inteligência Artificial pode enriquecer o projeto!",
     "atividade_link":"https://docs.google.com/document/d/1dhGwzXuPh8pNYOVFqADAMbur9xi5UGtK5bDk5wwKeN0/edit?usp=sharing",
     "descricao":""
  },
- {
-    "titulo":"Plano de Negócio <span style='background-color: #d0006f; color: white; font-weight: bold;'>Sênior</span>",
+ {  "titulo":"Plano de Negócio <span style='background-color: #d0006f; color: white; font-weight: bold;'>Sênior</span>",
     "conteudo_label":"Plano de Negócio = Business Canva (em Português = Quadro de Modelo de Negócio)",
     "conteudo_link":"https://docs.google.com/document/d/1tNpft3cB7VFYGgu7WKn28Uj2TxivuV9yuShaE_kBKUg/edit?usp=sharing",
     "questionario_link": "None",
     "atividade_label":"Business Canva",
     "atividade_link":"https://docs.google.com/document/d/18JFmF5uDe8DnEp6b518NT9RJrgmf_z2ClQMdPzFgPS4/edit?usp=sharing",
-    "descricao":""
+    "descricao":"Por ser uma competição de tecnologia e empreendedorismo, as equipes devem entregar um plano de negócios seguindo o modelo 'Business Canva'"
  },
-  {
-    "titulo":"Plano de Adoção do Usuário <span style='background-color: #ffb81c; color: white; font-weight: bold;'>Júnior</span>",
-    "conteudo_label":"preparando ...",
-    "conteudo_link":"",
-    "questionario_link": "-",
+ { "titulo":"Plano de Adoção do Usuário <span style='background-color: #ffb81c; color: white; font-weight: bold;'>Júnior</span>",
+    "conteudo_label":"Plano de Adoção do Usuário + Marketing",
+    "conteudo_link":"https://docs.google.com/document/d/1i1j155t90oqKtfAOUidyPE4mqcDiMDOOLfbPoLraukI/edit?usp=sharing",
+    "questionario_link": "None",
     "atividade_label":"Plano de Adoção do Usuário",
     "atividade_link":"https://docs.google.com/document/d/10ZCXXt8KbyrnLc-YcxlnCIKeZO3E-smFVS9K2GBReC0/edit?usp=sharing",
-    "descricao":""
+    "descricao":"Por ser uma competição de tecnologia e empreendedorismo, as equipes devem explicar como interagiram com os usuários durante o desenvolvimento do projeto!"
  },
  {
     "titulo":"Pitch",
     "conteudo_label":"Pitch",
     "conteudo_link":"https://docs.google.com/document/d/1NRv3yBDCeaPENZEnQFvRcXhYVDLoudN7qsG0OYrkBWM/edit?usp=sharing",
     "questionario_link": "None",
-    "atividade_label":"preparando ...",
-    "atividade_link":"",
+    "atividade_label":"Escrever Roteiro do Vídeo Pitch",
+    "atividade_link":"label",
     "descricao":""
  },
   {
@@ -112,8 +117,8 @@
     "conteudo_label":"Vídeo Técnico",
     "conteudo_link":"https://docs.google.com/document/d/1zX5-JGBpcXDacwX_p-jVd8ZE5aKj2CYhsa7QAN4pvXE/edit?usp=sharing",
     "questionario_link": "None",
-    "atividade_label":"preparando ...",
-    "atividade_link":"",
+    "atividade_label":"Escrever Roteiro do Vídeo Técnico",
+    "atividade_link":"label",
     "descricao":""
  },
  {
@@ -121,17 +126,17 @@
     "conteudo_label":"Gravar e Editar Vídeo",
     "conteudo_link":"https://docs.google.com/document/d/1j8rECB8jdgHtJeQD4YCD1vz7MEE9tvIFSdAQPdWjr0Y/edit?usp=sharing",
     "questionario_link": "None",
-    "atividade_label":"preparando ...",
-    "atividade_link":"",
+    "atividade_label":"Gravar e Editar Vídeo Pitch e Vídeo Técnico",
+    "atividade_link":"label",
     "descricao":""
  },
  {
     "titulo":"Jornada de Aprendizagem",
     "conteudo_label":"Jornada de Aprendizagem",
     "conteudo_link":"https://docs.google.com/document/d/1k8AGKRYpJHV1cfcZL5-dbjPIKKBbPdqGt_6VZeJz5oA/edit?usp=sharing",
-    "questionario_link": "-",
-    "atividade_label":"preparando ...",
-    "atividade_link":"",
+    "questionario_link": "None",
+    "atividade_label":"Escrever Jornada de Aprendizagem",
+    "atividade_link":"label",
     "descricao":""
  }
 ]

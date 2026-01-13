@@ -7,12 +7,36 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     container.innerHTML = dados.map((item, index) => {
       let questionarioHTML = '';
-      if (item.questionario_link === "None") {
-        questionarioHTML = `<p style="color: gray;"><em>O questionário de fixação do conteúdo está sendo preparado.</em></p>`;
-      } else if (item.questionario_link === "-") {
-        questionarioHTML = `<p style="color: #f8a5a5;"><em>Este conteúdo não possui questionário.</em></p>`;
+      if (item.questionario_link === "-") {
+        questionarioHTML = `<p style="color: #d0006f;"><em>O questionário de fixação do conteúdo está sendo preparado.</em></p>`;
+      } else if (item.questionario_link === "None") {
+        questionarioHTML = `<p style="color: #f8a5a5;"><em>Este conteúdo não possui questionário!</em></p>`;
       } else {
         questionarioHTML = `<p>📋 <a href="${item.questionario_link}" target="_blank" style="color: #43b02a; text-decoration: none;">Acessar Questionário Individual de Fixação</a></p>`;
+      }
+
+      let atividade = '';
+      if (item.atividade_link === "-") {
+        atividade = `<a style="color: #d0006f;"><em> preparando ...</em></a>`;
+      } else if (item.atividade_link === "label"){
+        atividade = item.atividade_label;
+      } else if (item.atividade_link === "None"){
+        atividade = `<a style="color: #f8a5a5;"><em>Este conteúdo não possui atividade!</em></a>`;
+      } else {
+        atividade = `<a href="${item.atividade_link}" target="_blank" style="color: #d0006f; text-decoration: none;">
+                        ${item.atividade_label}
+                    </a>`
+      }
+
+      let conteudo = '';
+      if (item.conteudo_link === "-") {
+        conteudo = `<a style="color: #d0006f;"><em> preparando ...</em></a>`;
+      } else if (item.conteudo_link === "None"){
+        conteudo = `<a style="color: gray;"><em>Este conteúdo não possui Material para Leitura, o objetivo é praticar!</em></a>`;
+      } else {
+        conteudo = `<a href="${item.conteudo_link}" target="_blank" style="color: #05a79a; text-decoration: none;">
+                      ${item.conteudo_label}
+                    </a>`
       }
 
       return `
@@ -23,9 +47,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           <div class="collapsible-body">
             <span>
               <p>📄 Material para Leitura: 
-                <a href="${item.conteudo_link}" target="_blank" style="color: #05a79a; text-decoration: none;">
-                  ${item.conteudo_label}
-                </a>
+                ${conteudo}
               </p>
 
               <div style="margin-left: 30px;">
@@ -33,9 +55,7 @@ document.addEventListener("DOMContentLoaded", async () => {
               </div>
 
               <p>📝 Atividade para a Equipe: 
-                <a href="${item.atividade_link}" target="_blank" style="color: #d0006f; text-decoration: none;">
-                  ${item.atividade_label}
-                </a>
+                 ${atividade}
               </p>
 
               <p>${item.descricao}</p>
